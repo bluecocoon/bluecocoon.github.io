@@ -1,0 +1,60 @@
+ErrorDocument 404 /404.html
+ErrorDocument 500 /500.html
+
+  # /lessons/2011/12/29/jekyll-introduction
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2011/04/12/md-extension
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2011/04/12/text-extension
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2010/01/10/timezone-override
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2010/01/10/time-override
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2010/01/10/override-data
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2010/01/10/date-override
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2010/01/08/triple-dash
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2009/06/22/no-yaml
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2009/06/22/empty-yaml
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/win/2009/05/24/yaml-linebreak
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2009/05/18/tags
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2009/05/18/tag
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2009/05/18/empty-tags
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2009/05/18/empty-tag
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2009/03/12/hash-%231
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2009/01/27/empty-category
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2009/01/27/empty-categories
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2009/01/27/category
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2009/01/27/categories
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2009/01/27/array-categories
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2008/12/13/include
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/foo/2008/12/12/topical-post
+
+  # my_category/permalinked-post
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2008/11/21/complex
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2008/10/18/foo-bar
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/category/2008/09/23/categories
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/z_category/2008/09/23/categories
+
+  # /vendor/bundle/ruby/2.0.0/gems/jekyll-0.12.1/test/source/2008/02/02/published
