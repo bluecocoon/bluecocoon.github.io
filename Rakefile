@@ -2,6 +2,10 @@ require "rubygems"
 require 'rake'
 require 'yaml'
 require 'time'
+#Publish - Added for publish and generate tasks
+require 'jekyll'
+require 'tmpdir'
+#/Publish
 
 SOURCE = "."
 CONFIG = {
@@ -331,7 +335,7 @@ task :publish => [:generate] do
     system "git add ."
     message = "Site updated at #{Time.now.utc}"
     system "git commit -m #{message.shellescape}"
-    system "git remote add origin git@github.com:#{GITHUB_REPONAME}.git"
+    system "git remote add origin https://github.com/#{GITHUB_REPONAME}.git"
     system "git push origin master --force"
   end
 end
