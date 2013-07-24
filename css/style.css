@@ -399,7 +399,7 @@ a:hover {
 /* Section 3 */ 
 
 #section3 {
-	background-image:url("../img/project55-bg.jpg");
+	background-image:url("../img/project-bg.jpg");
 	color: #F1F1F1;
 }
 
@@ -853,7 +853,14 @@ ul
   font-size: 16px;
   line-height: 24px;
   font-weight: 300;
-  color: #000000;
+  color: #FFFFFF;
 
 }
-
+.whiteFont
+{
+	font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+  color: #FFFFFF;
+}
+	
