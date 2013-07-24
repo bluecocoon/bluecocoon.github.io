@@ -21,7 +21,7 @@ html {
 }
 
 body {
-	background: #ecf0f1;
+	background:#FFFAF0 ;
     color: #2d2d2d;
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 15px; font-size: 1.5rem;
@@ -193,7 +193,7 @@ a:hover {
 	background-position: center top;
 	margin-left: -50px;
 	position: relative;
-	padding: 150px 0 170px;
+	padding: 150px 0 90px;
 }
 
 .section_top {
@@ -483,7 +483,7 @@ a:hover {
 /* Section 5 */
 
 #section5 {
-	background:#3385D6;
+	background:#1947A3;
 	color: #F1F1F1;
 	padding-bottom: 0px;
 }
@@ -750,6 +750,51 @@ a:hover {
 	
 }
 
+.carousel-caption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 15px;
+  background: #333333;
+  background: rgba(0, 0, 0, 0.75);
+}
+.carousel-caption h4,
+.carousel-caption p {
+  color: #ffffff;
+  line-height: 20px;
+}
+.carousel-caption h4 {
+  margin: 0 0 5px;
+}
+.carousel-caption p {
+  margin-bottom: 0;
+}
+h3 {
+  font-size: 34px;
+  font-weight: 300;
+  letter-spacing: -1px;
+  line-height: 34px;
+  color: #626c72;
+}
+/* ==========================================================================
+   Services Styles
+   ========================================================================== */
+#services {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+
+.service:hover i {
+  color: #626c72;
+  transition: all 0.35s ease-in-out;
+  cursor: pointer;
+}
+
+.service h3 {
+  margin-top: 40px;
+}
 
 @media screen and (max-width: 480px) {
 	 
@@ -795,7 +840,20 @@ a:hover {
 
 
 }
+p
+{
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+  color: #000000;
+}
 
+ul
+{
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+  color: #000000;
 
-
+}
 
