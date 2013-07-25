@@ -196,6 +196,16 @@ a:hover {
 	padding: 150px 0 90px;
 }
 
+.section4
+{
+	background-attachment: scroll;
+	background-position: center top;
+	margin-left: -50px;
+	position: relative;
+	padding: 0px 0 0px;
+
+}
+
 .section_top {
 	background-attachment: scroll;
 	background-position: center top;
